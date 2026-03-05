@@ -1,0 +1,32 @@
+[
+  {
+    "module_code": "adm21_1",
+    "module_label": "ADM 21.1 - Approval Matrix Definition",
+    "module_title": "Approval Matrix Definition",
+    "module_slug": "approval_matrix_definition",
+    "app_code": "adm21",
+    "app_label": "ADM 21 - Procurement Authorization Control",
+    "bundle_code": "adm",
+    "source_md_path": "doc/rnd/plugs/adm/adm1.md"
+  },
+  {
+    "module_code": "adm21_3",
+    "module_label": "ADM 21.3 - Override & Exception Logging",
+    "module_title": "Override & Exception Logging",
+    "module_slug": "override_and_exception_logging",
+    "app_code": "adm21",
+    "app_label": "ADM 21 - Procurement Authorization Control",
+    "bundle_code": "adm",
+    "source_md_path": "doc/rnd/plugs/adm/adm1.md"
+  },
+  {
+    "module_code": "adm21_2",
+    "module_label": "ADM 21.2 - Procurement Approval Validation",
+    "module_title": "Procurement Approval Validation",
+    "module_slug": "procurement_approval_validation",
+    "app_code": "adm21",
+    "app_label": "ADM 21 - Procurement Authorization Control",
+    "bundle_code": "adm",
+    "source_md_path": "doc/rnd/plugs/adm/adm1.md"
+  }
+]
